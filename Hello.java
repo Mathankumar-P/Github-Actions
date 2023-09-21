@@ -1,5 +1,8 @@
+/**
+ * This is a Hello world program.
+ */
 public class Hello {
-  public static void main(String[] args) {
+  public static void main(final String[] args) {
     System.out.println("Hello World!");
   }
 }
